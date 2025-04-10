@@ -24,11 +24,11 @@
 -  :muscle: Сильный и надёжный игрок в командной работе
 -  :zap: Высокое качество работы, постоянное самосовершенствование
 <div height="120">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2swMGEzd3oybjExOW0wbHZyYnEyZzkyaGtrZDZsenE2d2o4MmozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13twUEuUnCrEju/giphy.gif" alt="React-dev">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVhbW1mMTFmYjNpb2VmbWxmcHJrZ3JyN3c1Nzd5a2pjNjA4bG81biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNrmPZICNmRyX/giphy.gif" alt="UserExp">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqaWg2ZTRrNm1jbDcyNnRhdTV2bGR4NzRiZ2xrc2J5anFhYmpkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Learning">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkaTU5cDI4ZzRndGJlODRkYm0waWh0NmYwbm50OXJ2eHhoZzR2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yssegcqq1WDlPKdP4/giphy.gif" alt="Teamwork">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZxbnVidGZ5d2MyY2VsM2UweHozdzZhc3UwOWJtNTY5M3JlamVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNUyxiJoTYiWWyNMJw/giphy.gif" alt="LevelUP">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2swMGEzd3oybjExOW0wbHZyYnEyZzkyaGtrZDZsenE2d2o4MmozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13twUEuUnCrEju/giphy.gif" alt="React-dev" height="100">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVhbW1mMTFmYjNpb2VmbWxmcHJrZ3JyN3c1Nzd5a2pjNjA4bG81biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNrmPZICNmRyX/giphy.gif" alt="UserExp" height="100">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqaWg2ZTRrNm1jbDcyNnRhdTV2bGR4NzRiZ2xrc2J5anFhYmpkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Learning" height="100">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkaTU5cDI4ZzRndGJlODRkYm0waWh0NmYwbm50OXJ2eHhoZzR2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yssegcqq1WDlPKdP4/giphy.gif" alt="Teamwork" height="100">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZxbnVidGZ5d2MyY2VsM2UweHozdzZhc3UwOWJtNTY5M3JlamVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNUyxiJoTYiWWyNMJw/giphy.gif" alt="LevelUP" height="100">
 </div>
 
 ---
