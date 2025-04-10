@@ -21,13 +21,13 @@
 -  :telescope: Углубленное изучение новых технологий и инструментов
 -  :muscle: Сильный и надёжный игрок в командной работе
 -  :zap: Высокое качество работы, постоянное самосовершенствование
-
+<div>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2swMGEzd3oybjExOW0wbHZyYnEyZzkyaGtrZDZsenE2d2o4MmozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13twUEuUnCrEju/giphy.gif" alt="Teamwork" width="102">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVhbW1mMTFmYjNpb2VmbWxmcHJrZ3JyN3c1Nzd5a2pjNjA4bG81biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNrmPZICNmRyX/giphy.gif" alt="Teamwork" width="101">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqaWg2ZTRrNm1jbDcyNnRhdTV2bGR4NzRiZ2xrc2J5anFhYmpkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Teamwork" width="181">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkaTU5cDI4ZzRndGJlODRkYm0waWh0NmYwbm50OXJ2eHhoZzR2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yssegcqq1WDlPKdP4/giphy.gif" alt="Teamwork" width="140">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTcwdms2MjkxMThlaHAxd3MzbmN2bnVjaXJjdm12dHBwOHgyZTI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NyG1CArZsAvUp507dj/giphy.gif" alt="Teamwork" width="100">
-
+</div>
 ---
 
 ### :hammer_and_wrench: Языки и Инстурменты:
