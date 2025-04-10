@@ -1,6 +1,8 @@
+---
+
 <div id="container" align="center">
 	<div id="header">
-		<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExangwazVvNXptZHQ3a3o5N2d5NWg1YXdhcGwwemJwNzIybG1kNTMwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" width="300"/>
+		<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExangwazVvNXptZHQ3a3o5N2d5NWg1YXdhcGwwemJwNzIybG1kNTMwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" width="500"/>
 	</div>
 	<div id="badges">
 		<a href="mailto:polyakov.a.a.03@mail.ru">
@@ -22,12 +24,13 @@
 -  :muscle: Сильный и надёжный игрок в командной работе
 -  :zap: Высокое качество работы, постоянное самосовершенствование
 <div>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2swMGEzd3oybjExOW0wbHZyYnEyZzkyaGtrZDZsenE2d2o4MmozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13twUEuUnCrEju/giphy.gif" alt="Teamwork" width="102">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVhbW1mMTFmYjNpb2VmbWxmcHJrZ3JyN3c1Nzd5a2pjNjA4bG81biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNrmPZICNmRyX/giphy.gif" alt="Teamwork" width="101">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqaWg2ZTRrNm1jbDcyNnRhdTV2bGR4NzRiZ2xrc2J5anFhYmpkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Teamwork" width="181">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkaTU5cDI4ZzRndGJlODRkYm0waWh0NmYwbm50OXJ2eHhoZzR2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yssegcqq1WDlPKdP4/giphy.gif" alt="Teamwork" width="140">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTcwdms2MjkxMThlaHAxd3MzbmN2bnVjaXJjdm12dHBwOHgyZTI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NyG1CArZsAvUp507dj/giphy.gif" alt="Teamwork" width="100">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2swMGEzd3oybjExOW0wbHZyYnEyZzkyaGtrZDZsenE2d2o4MmozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13twUEuUnCrEju/giphy.gif" alt="React-dev" height="140">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVhbW1mMTFmYjNpb2VmbWxmcHJrZ3JyN3c1Nzd5a2pjNjA4bG81biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNrmPZICNmRyX/giphy.gif" alt="UserExp"height="140">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqaWg2ZTRrNm1jbDcyNnRhdTV2bGR4NzRiZ2xrc2J5anFhYmpkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Learning"height="140">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBkaTU5cDI4ZzRndGJlODRkYm0waWh0NmYwbm50OXJ2eHhoZzR2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yssegcqq1WDlPKdP4/giphy.gif" alt="Teamwork"height="140">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZxbnVidGZ5d2MyY2VsM2UweHozdzZhc3UwOWJtNTY5M3JlamVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNUyxiJoTYiWWyNMJw/giphy.gif" alt="LevelUP"height="140">
 </div>
+
 ---
 
 ### :hammer_and_wrench: Языки и Инстурменты:
@@ -57,10 +60,3 @@
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PakostTosha&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PakostTosha)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakostTosha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
